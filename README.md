@@ -1,1 +1,1 @@
-# POC_Bank
+# Banking Application
